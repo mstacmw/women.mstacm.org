@@ -172,10 +172,14 @@ a:hover { text-decoration: none; }
   width: 100%;
   clear: both;
   text-align: left;
-  background-color: #72587F;
+  /*background-color: #72587F;*/
+  background-color: #BFC0C0;
   padding: 10px;
   box-sizing: border-box;
-  border-top: 5px solid #388E8E;
+  border-top: 5px solid #1156FB;
+  /*border-top: 5px solid #388E8E;*/
+  border-top-left-radius: 15px;
+  border-top-left-radius: 15px;
   /*-webkit-box-shadow: 0 8px 6px -6px black;
      -moz-box-shadow: 0 8px 6px -6px black;
           box-shadow: 0 8px 6px -6px black;*/
