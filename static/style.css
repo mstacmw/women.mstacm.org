@@ -225,15 +225,16 @@ a:hover { text-decoration: none; }
   /*color: #fff;*/
   color: #39B5FB;
   font-family: 'Nunito', arial, sans-serif;
-  font-weight: 300;
+  font-weight: 700;
   font-size: 1.4em;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+  /*text-shadow: 1px 1px 3px rgba(0,0,0,0.5);*/
   border-radius: 20px;
 } 
 
 #menu ul li a:hover {
   text-decoration: none;
-  background-color: #8F709E;
+  background-color: #404353;
+  /*background-color: #8F709E;*/
 }
 
 #content {
