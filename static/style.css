@@ -98,7 +98,7 @@ h6 {
   /*color: #362C20;*/
 }
 
-a { color: #72587F; text-decoration: underline; }
+a { /*color: #72587F;*/color: #FFFFFF; text-decoration: underline; }
 
 a:hover { text-decoration: none; }
 
@@ -412,7 +412,8 @@ a:hover { text-decoration: none; }
 }
 
 .photobar {
-  background-color: #eee;
+  /*background-color: #eee;*/
+  background-color: #2D3142;
   border-radius: 10px;
   padding: 0 15px 15px;
   box-sizing: border-box;
