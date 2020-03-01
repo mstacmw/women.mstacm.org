@@ -49,20 +49,23 @@ hr { margin: 10px 0 20px; }
 
 h1, h2, h3, h4, h5, h6 {
   font: normal 2.2em 'Oswald', arial, sans-serif;
-  color: #444;
+  color: #FFFFFF;
+  /*color: #444;*/
   margin: 0 0 7px 0;
   padding: 5px 0 5px 0;
 }
 
 h2 {
   font: normal 1.9em 'Oswald', arial, sans-serif;
-  color: #388E8E;  
+  color: #FFFFFF;
+  /*color: #388E8E;*/
   margin: 0;
   padding: 10px 0 18px 0;
 }
 
 h3 {
-  color: #388E8E;
+  color: #FFFFFF;
+  /*color: #388E8E;*/
   font-size: 1.4em;
   margin: 0 0 9px 0;
 }
@@ -76,7 +79,8 @@ h5, h6 {
 }
 
 h4 {
-  color: #555;
+  color: #FFFFFF;
+  /*color: #555;*/
   font-style: italic;
   margin: -20px 0 10px 0;
   font-size: 1.1em;
@@ -84,12 +88,14 @@ h4 {
 
 h5, h6 {
   font: italic 80% arial, sans-serif;
-  color: #888;
+  color: #FFFFFF;
+  /*color: #888;*/
   padding-bottom: 15px;
 }
 
 h6 {
-  color: #362C20;
+  color: #FFFFFF;
+  /*color: #362C20;*/
 }
 
 a { color: #72587F; text-decoration: underline; }
@@ -227,7 +233,8 @@ a:hover { text-decoration: none; }
 }
 
 #content {
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-color: #2D3142;
   padding: 10px 30px 25px;
   /*border: 2px solid #ccc;*/
   /*border-top: 0;*/
