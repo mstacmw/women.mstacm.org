@@ -11,7 +11,8 @@ html {
 body {
   font: normal 1em 'helvetica', arial, sans-serif;
   background: #ddd url('http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/337066_original.png') repeat;
-  color: #555;
+  /*color: #555;*/
+  color: #FFFFFF;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding-bottom: 20px;
