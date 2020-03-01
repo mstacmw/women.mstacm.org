@@ -48,7 +48,7 @@ img { border: 0; }
 hr { margin: 10px 0 20px; }
 
 h1, h2, h3, h4, h5, h6 {
-  font: normal 2.2em 'Oswald', arial, sans-serif;
+  font: normal 2.2em 'Nunito', arial, sans-serif;
   color: #FFFFFF;
   /*color: #444;*/
   margin: 0 0 7px 0;
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  font: normal 1.9em 'Oswald', arial, sans-serif;
+  font: normal 1.9em 'Nunito', arial, sans-serif;
   color: #FFFFFF;
   /*color: #388E8E;*/
   margin: 0;
@@ -162,7 +162,7 @@ a:hover { text-decoration: none; }
 
 #title h1 {
   font-size: 2.25em;
-  font-family: 'Oswald', arial, sans-serif;
+  font-family: 'Nunito', arial, sans-serif;
   font-weight: 400;
   color: #FFFFFF;
   /*color: #777;*/
@@ -222,8 +222,9 @@ a:hover { text-decoration: none; }
 #menu ul li a {
   display: inline-block;
   padding: 7px 15px;
-  color: #fff;
-  font-family: 'Oswald', arial, sans-serif;
+  /*color: #fff;*/
+  color: #39B5FB;
+  font-family: 'Nunito', arial, sans-serif;
   font-weight: 300;
   font-size: 1.4em;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
@@ -289,7 +290,7 @@ a:hover { text-decoration: none; }
   bottom: 30px;
   text-align: left;
   color: #fff;
-  font-family: 'Oswald', arial, sans-serif;
+  font-family: 'Nunito', arial, sans-serif;
   padding: 0 0 0 30px;
   font-size: 1.2em;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
@@ -307,7 +308,7 @@ a:hover { text-decoration: none; }
 
 #intro {
   display: block;
-  font-family: 'Oswald', arial, sans-serif;
+  font-family: 'Nunito', arial, sans-serif;
   background: url('http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/336910_original.png') no-repeat;
   background-size: 25%;
   background-position: 90%;
@@ -321,7 +322,7 @@ a:hover { text-decoration: none; }
 #intro h2 {
   font-size: 3.25em;
   font-weight: 300;
-  font-family: 'Oswald', arial, sans-serif;
+  font-family: 'Nunito', arial, sans-serif;
   padding: 0;
 }
 
@@ -349,7 +350,7 @@ a:hover { text-decoration: none; }
   display: block;
   background-color: #fff;
   font-weight: 400;
-  font-family: 'Oswald', arial, sans-serif;
+  font-family: 'Nunito', arial, sans-serif;
   position: relative;
   text-align: right;
   letter-spacing: 1px;
