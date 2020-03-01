@@ -226,7 +226,7 @@ a:hover { text-decoration: none; }
   color: #39B5FB;
   font-family: 'Nunito', arial, sans-serif;
   font-weight: 700;
-  font-size: 1.4em;
+  font-size: 1.0em;
   /*text-shadow: 1px 1px 3px rgba(0,0,0,0.5);*/
   border-radius: 20px;
 } 
@@ -413,7 +413,7 @@ a:hover { text-decoration: none; }
 
 .photobar {
   /*background-color: #eee;*/
-  background-color: #9197AE;
+  background-color: #1156FB;
   border-radius: 10px;
   padding: 0 15px 15px;
   box-sizing: border-box;
