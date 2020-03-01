@@ -153,16 +153,19 @@ a:hover { text-decoration: none; }
 
 #title {
   display: block;
-  background-color: #fff;
+  background-color: #2D3142;
+  /*background-color: #fff;*/
   padding: 0px 20px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #39B5FB;
+  /*border-bottom: 1px solid #ccc;*/
 }
 
 #title h1 {
   font-size: 2.25em;
   font-family: 'Oswald', arial, sans-serif;
   font-weight: 400;
-  color: #777;
+  color: #FFFFFF;
+  /*color: #777;*/
   display: inline-block;
   margin: 0;
   padding: 12px 0;
