@@ -156,7 +156,7 @@ a:hover { text-decoration: none; }
   background-color: #2D3142;
   /*background-color: #fff;*/
   padding: 0px 20px;
-  border-bottom: 1px solid #39B5FB;
+  /*border-bottom: 1px solid #39B5FB;*/
   /*border-bottom: 1px solid #ccc;*/
 }
 
@@ -185,7 +185,7 @@ a:hover { text-decoration: none; }
   text-align: left;
   /*background-color: #72587F;*/
   background-color: #2D3142;
-  border-bottom: 5px solid #1156FB;
+  border-bottom: 5px solid #39B5FB;
   padding: 10px;
   box-sizing: border-box;
   /*border-top: 5px solid #1156FB;*/
@@ -223,7 +223,7 @@ a:hover { text-decoration: none; }
   display: inline-block;
   padding: 7px 15px;
   /*color: #fff;*/
-  color: #39B5FB;
+  color: #1156FB;
   font-family: 'Nunito', arial, sans-serif;
   font-weight: 300;
   font-size: 1.4em;
