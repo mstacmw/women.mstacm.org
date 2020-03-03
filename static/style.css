@@ -415,8 +415,8 @@ a:hover { text-decoration: none; }
 }
 
 .photobar {
-  /*background-color: #eee;*/
-  background-color: #2D3142;
+  background-color: #eee;
+  /*background-color: #2D3142;*/
   border-radius: 10px;
   padding: 0 15px 15px;
   box-sizing: border-box;
