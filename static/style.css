@@ -188,6 +188,7 @@ a:hover { text-decoration: none; }
   background-color: #2D3142;
   border-bottom: 2px solid #39B5FB;
   padding: 10px;
+  padding-top: 12px;
   box-sizing: border-box;
   /*border-top: 5px solid #1156FB;*/
   /*border-top: 5px solid #388E8E;*/
