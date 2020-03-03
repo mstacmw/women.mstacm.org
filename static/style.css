@@ -11,12 +11,12 @@ html {
 body {
   font: normal 1em 'helvetica', arial, sans-serif;
   background: #ddd url('http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/337066_original.png') repeat;
-  /*color: #555;*/
-  color: #FFFFFF;
+  color: #555;
+  /*color: #FFFFFF;*/
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding-bottom: 20px;
-  background-color: #2D3142;
+  /*background-color: #2D3142;*/
 }
 
 p {
@@ -50,7 +50,7 @@ hr { margin: 10px 0 20px; }
 
 h1, h2, h3, h4, h5, h6 {
   font: normal 2.2em 'Nunito', arial, sans-serif;
-  color: #FFFFFF;
+  color: #000000;
   /*color: #444;*/
   margin: 0 0 7px 0;
   padding: 5px 0 5px 0;
@@ -58,14 +58,14 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
   font: normal 1.9em 'Nunito', arial, sans-serif;
-  color: #FFFFFF;
+  color: #000000;
   /*color: #388E8E;*/
   margin: 0;
   padding: 10px 0 18px 0;
 }
 
 h3 {
-  color: #FFFFFF;
+  color: #000000;
   /*color: #388E8E;*/
   font-size: 1.4em;
   margin: 0 0 9px 0;
@@ -80,7 +80,7 @@ h5, h6 {
 }
 
 h4 {
-  color: #FFFFFF;
+  color: #000000;
   /*color: #555;*/
   font-style: italic;
   margin: -20px 0 10px 0;
@@ -89,17 +89,17 @@ h4 {
 
 h5, h6 {
   font: italic 80% arial, sans-serif;
-  color: #FFFFFF;
+  color: #000000;
   /*color: #888;*/
   padding-bottom: 15px;
 }
 
 h6 {
-  color: #FFFFFF;
+  color: #000000;
   /*color: #362C20;*/
 }
 
-a { /*color: #72587F;*/color: #FFFFFF; text-decoration: underline; }
+a { /*color: #72587F;*/color: #000000; text-decoration: underline; }
 
 a:hover { text-decoration: none; }
 
