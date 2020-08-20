@@ -436,7 +436,7 @@ a:hover {
   background-color: #eee;
   /*background-color: #2D3142;*/
   border-radius: 10px;
-  padding: 0 15px 15px;
+  padding: 0 15px 0px;
 
   box-sizing: border-box;
   text-align: center;
