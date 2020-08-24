@@ -9,8 +9,10 @@ html {
 }
 
 body {
-  font: normal 1em 'helvetica', arial, sans-serif;
-  background: #ddd url('http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/337066_original.png') repeat;
+  font: normal 1em "helvetica", arial, sans-serif;
+  background: #ddd
+    url("http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/337066_original.png")
+    repeat;
   color: #555;
   /*color: #FFFFFF;*/
   -webkit-font-smoothing: antialiased;
@@ -24,9 +26,14 @@ p {
   line-height: 1.8em;
 }
 
-img { border: 0; }
+img {
+  border: 0;
+}
 
-.clear { clear: both; display: block; }
+.clear {
+  clear: both;
+  display: block;
+}
 
 .half {
   width: 47%;
@@ -43,13 +50,24 @@ img { border: 0; }
   display: inline-block;
 }
 
-.first { float: left; }
-.last { float: right; }
+.first {
+  float: left;
+}
+.last {
+  float: right;
+}
 
-hr { margin: 10px 0 20px; }
+hr {
+  margin: 10px 0 20px;
+}
 
-h1, h2, h3, h4, h5, h6 {
-  font: normal 2.2em 'Nunito', arial, sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font: normal 2.2em "Nunito", arial, sans-serif;
   color: #000000;
   /*color: #444;*/
   margin: 0 0 7px 0;
@@ -57,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  font: normal 1.9em 'Nunito', arial, sans-serif;
+  font: normal 1.9em "Nunito", arial, sans-serif;
   color: #000000;
   /*color: #388E8E;*/
   margin: 0;
@@ -71,11 +89,12 @@ h3 {
   margin: 0 0 9px 0;
 }
 
-h5, h6 {
+h5,
+h6 {
   margin: 0;
   padding: 0 0 5px 0;
   font: normal 1.15em arial, sans-serif;
-  color: #388E8E;
+  color: #388e8e;
   line-height: 1em;
 }
 
@@ -87,27 +106,31 @@ h4 {
   font-size: 1.1em;
 }
 
-h5, h6 {
+h5,
+h6 {
   font: italic 80% arial, sans-serif;
   color: #000000;
-  /*color: #888;*/
   padding-bottom: 15px;
 }
 
 h6 {
   color: #000000;
-  /*color: #362C20;*/
 }
 
-a { /*color: #72587F;*/color: #000000; text-decoration: underline; }
+a {
+  color: #000000;
+  text-decoration: underline;
+}
 
-a:hover { text-decoration: none; }
+a:hover {
+  text-decoration: none;
+}
 
 #main {
   margin: 15px auto;
-  -moz-box-shadow:    0px 3px 5px 3px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 0px 3px 5px 3px rgba(0,0,0,0.1);
-  box-shadow:         0px 3px 5px 3px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 3px 5px 3px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0px 3px 5px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 3px 5px 3px rgba(0, 0, 0, 0.1);
   width: 100%;
   max-width: 1000px;
   width: 1000px;
@@ -138,12 +161,9 @@ a:hover { text-decoration: none; }
   top: -2px;
 }
 
-#content, #header {
+#content,
+#header {
   width: 100%;
-/*  width: 80%;
-  max-width: 1000px;
-  width: 1000px;
-  margin: 0 auto;*/
   display: block;
   box-sizing: border-box;
 }
@@ -154,7 +174,7 @@ a:hover { text-decoration: none; }
 
 #title {
   display: block;
-  background-color: #2D3142;
+  background-color: #2d3142;
   /*background-color: #fff;*/
   padding: 0px 20px;
   /*border-bottom: 1px solid #39B5FB;*/
@@ -163,15 +183,15 @@ a:hover { text-decoration: none; }
 
 #title h1 {
   font-size: 2.25em;
-  font-family: 'Nunito', arial, sans-serif;
+  font-family: "Nunito", arial, sans-serif;
   font-weight: 400;
-  color: #FFFFFF;
+  color: #ffffff;
   /*color: #777;*/
   display: inline-block;
   margin: 0;
   padding: 12px 0;
   position: relative;
-  text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
   text-transform: uppercase;
 }
 
@@ -185,8 +205,8 @@ a:hover { text-decoration: none; }
   clear: both;
   text-align: left;
   /*background-color: #72587F;*/
-  background-color: #2D3142;
-  border-bottom: 2px solid #39B5FB;
+  background-color: #2d3142;
+  border-bottom: 2px solid #39b5fb;
   padding: 10px;
   padding-top: 15px;
   box-sizing: border-box;
@@ -208,7 +228,9 @@ a:hover { text-decoration: none; }
   vertical-align: top;
 }
 
-#menu a { text-decoration: none; }
+#menu a {
+  text-decoration: none;
+}
 
 #menu ul {
   text-align: right;
@@ -224,38 +246,32 @@ a:hover { text-decoration: none; }
 #menu ul li a {
   display: inline-block;
   padding: 7px 15px;
-  /*color: #fff;*/
-  color: #39B5FB;
-  font-family: 'Nunito', arial, sans-serif;
+  color: #39b5fb;
+  font-family: "Nunito", arial, sans-serif;
   font-weight: 700;
   font-size: 1.2em;
-  /*font-size: 1.4em;*/
-  /*text-shadow: 1px 1px 3px rgba(0,0,0,0.5);*/
   border-radius: 20px;
-} 
+}
 
 #menu ul li a:hover {
   text-decoration: none;
   background-color: #404353;
-  /*background-color: #8F709E;*/
 }
 
 #content {
   background-color: #fff;
-  /*background-color: #2D3142;*/
   padding: 10px 30px 25px;
-  /*border: 2px solid #ccc;*/
-  /*border-top: 0;*/
 }
 
 #content ul {
- margin: 0px 0 20px 0px;
+  margin: 0px 0 20px 0px;
 }
 
 #content ul li {
   list-style-type: none;
-  background: url(http://os_extranet_files_test.s3.amazonaws.com/bullet.png) no-repeat;
-  margin: 0 0 6px 0; 
+  background: url(http://os_extranet_files_test.s3.amazonaws.com/bullet.png)
+    no-repeat;
+  margin: 0 0 6px 0;
   padding: 0 0 4px 25px;
   line-height: 1.5em;
 }
@@ -265,26 +281,25 @@ a:hover { text-decoration: none; }
   margin: 25px 0px;
   background-color: #eee;
   height: 300px;
-  background-image: url('http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/337015_original.jpg');
+  background-image: url("http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/337015_original.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-transition: opacity 1s; /* Safari and Chrome */
-       -moz-transition: opacity 1s; /* Firefox 4 */
-        -ms-transition: opacity 1s; /* MSIE */
-         -o-transition: opacity 1s; /* Opera */
-            transition: opacity 1s;
+  -moz-transition: opacity 1s; /* Firefox 4 */
+  -ms-transition: opacity 1s; /* MSIE */
+  -o-transition: opacity 1s; /* Opera */
+  transition: opacity 1s;
   opacity: 0.9;
   position: relative;
 }
 
 #banner .cover {
-  background-image:
-    linear-gradient(
-      to right,
-      rgba(0,0,0,0.9),
-      transparent 90%
-    );
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.9),
+    transparent 90%
+  );
   height: 300px;
   width: 80%;
 }
@@ -294,10 +309,10 @@ a:hover { text-decoration: none; }
   bottom: 30px;
   text-align: left;
   color: #fff;
-  font-family: 'Nunito', arial, sans-serif;
+  font-family: "Nunito", arial, sans-serif;
   padding: 0 0 0 30px;
   font-size: 1.2em;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
 }
 
 #banner span strong {
@@ -312,8 +327,9 @@ a:hover { text-decoration: none; }
 
 #intro {
   display: block;
-  font-family: 'Nunito', arial, sans-serif;
-  background: url('http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/336910_original.png') no-repeat;
+  font-family: "Nunito", arial, sans-serif;
+  background: url("http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/336910_original.png")
+    no-repeat;
   background-size: 25%;
   background-position: 90%;
   height: 300px;
@@ -326,7 +342,7 @@ a:hover { text-decoration: none; }
 #intro h2 {
   font-size: 3.25em;
   font-weight: 300;
-  font-family: 'Nunito', arial, sans-serif;
+  font-family: "Nunito", arial, sans-serif;
   padding: 0;
 }
 
@@ -334,7 +350,6 @@ a:hover { text-decoration: none; }
   width: 65%;
   float: left;
   font-size: 1.4em;
-
 }
 
 #intro quote {
@@ -354,7 +369,7 @@ a:hover { text-decoration: none; }
   display: block;
   background-color: #fff;
   font-weight: 400;
-  font-family: 'Nunito', arial, sans-serif;
+  font-family: "Nunito", arial, sans-serif;
   position: relative;
   text-align: right;
   letter-spacing: 1px;
@@ -365,7 +380,7 @@ a:hover { text-decoration: none; }
 
 .event span {
   display: inline-block;
-  background-color: #8F709E;
+  background-color: #8f709e;
   color: #fff;
   font-weight: 400;
   position: absolute;
@@ -379,7 +394,7 @@ a:hover { text-decoration: none; }
   /*border-color: #388E8E;*/
 }
 .event:nth-child(even) span {
-  background-color: #388E8E;
+  background-color: #388e8e;
 }
 
 .event a {
@@ -387,9 +402,12 @@ a:hover { text-decoration: none; }
   text-decoration: none;
 }
 
-.event a:hover { text-decoration: underline; }
+.event a:hover {
+  text-decoration: underline;
+}
 
-.event, .event span {
+.event,
+.event span {
   padding: 8px 10px;
 }
 
@@ -418,21 +436,22 @@ a:hover { text-decoration: none; }
   background-color: #eee;
   /*background-color: #2D3142;*/
   border-radius: 10px;
-  padding: 0 15px 15px;
+  padding: 0 15px 0px;
+
   box-sizing: border-box;
   text-align: center;
 }
 
 .photobar #module_pictures {
   margin-top: -10px;
+  margin: 15px;
   font-weight: bold;
+  position: relative;
+  max-width: 100%;
 }
 
-.photobar #module_pictures .album_name {
-  padding: 7px 0 13px;
+.album-name {
+  font-weight: 400;
+  font-family: "Nunito", arial, sans-serif;
+  font-size: 1.4em;
 }
-
-/*.section {
-  background: url('http://os_extranet_images.s3.amazonaws.com/336911_original.jpg') repeat-x top;
-  padding: 10px 25px;
-}*/
