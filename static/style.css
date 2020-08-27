@@ -426,13 +426,51 @@ a:hover {
 }
 
 .officer-img {
-  width: 60%;
-  height: 11%;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   background-size: 950%;
   background-color: #e6e7ed;
   background-repeat: no-repeat;
   margin: 0 auto;
+}
+
+.officer-img#president {
+  background-image: url('IMG_2612.JPG');
+  background-position: 22% 45%;
+}
+
+.officer-img#vice-president {
+  background-image: url('../static/IMG_2612.JPG');
+  background-position: 73.3% 43%;
+}
+
+.officer-img#secretary {
+}
+
+.officer-img#treasurer {
+  background-image: url('../static/IMG_2612.JPG');
+  background-position: 41.5% 48%;
+}
+
+.officer-img#webmaster {
+  background-image: url('../static/IMG_2612.JPG');
+  background-position: 12.5% 45%;
+}
+
+.officer-img#publicity-chair {
+  background-image: url('../static/IMG_2612.JPG');
+  background-position: 31.2% 46%;
+}
+
+.officer-img#gwc-chair {
+  background-image: url('../static/IMG_2612.JPG');
+  background-position: 82.5% 46%;
+}
+
+.officer-img#advisor {
+  background-image: url('../static/IMG_2612.JPG');
+  background-position: 61% 48%;
 }
 
 .photobar {
