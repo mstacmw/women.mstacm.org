@@ -14,9 +14,9 @@ $( document ).ready(function() {
   var index = 0;
 
   var images = [
-      { image:"https://os_extranet_images.s3.amazonaws.com/337015_original.jpg", title:"Celebrating", subtitle:"Promoting women in computing." },
-      { image:"https://os_extranet_images.s3.amazonaws.com/337016_original.jpg", title:"Supporting", subtitle:"Building a community within the university." },
-      { image:"https://os_extranet_images.s3.amazonaws.com/337060_original.jpg", title:"Informing", subtitle:"Introducing members to<br />educational and career opportunities." }
+    { image: "../static/banner01.jpg", title: "Celebrating", subtitle: "Promoting women in computing." },
+    { image: "../static/banner02.jpg", title: "Supporting", subtitle: "Building a community within the university." },
+    { image: "../static/banner03.jpg", title: "Informing", subtitle: "Introducing members to<br />educational and career opportunities." }
     ];
 
   var max = images.length;
@@ -77,12 +77,9 @@ $( document ).ready(function() {
       
     </div>
     <div id="content">
-      <!-- <div id="title">
-          <h1>Missouri S&amp;T ACM-W</h1>
-      </div> -->
-      <div id="banner" src="../static/IMG_2612">
+      <div id="banner" style="background-image: url(../static/banner01.jpg)">
         <div class="cover">
-          <span style="display: block;"><strong>Supporting</strong> Building a community within the university.</span>
+          <span style="display: block;"><strong>Celebrating</strong> Promoting women in computing.</span>
         </div>
       </div>
       
