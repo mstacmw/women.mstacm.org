@@ -476,6 +476,7 @@ a:hover {
 
 .officer-img#gwc-vice-chair {
   background-image: url('../img/officers/rui.jpg');
+  background-position: 50% 50%;
   background-size: 100%;
 }
 
