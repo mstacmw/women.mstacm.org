@@ -11,7 +11,7 @@ html {
 body {
   font: normal 1em "helvetica", arial, sans-serif;
   background: #ddd
-    url("http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/337066_original.png")
+    url("https://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/337066_original.png")
     repeat;
   color: #555;
   /*color: #FFFFFF;*/
@@ -269,7 +269,7 @@ a:hover {
 
 #content ul li {
   list-style-type: none;
-  background: url(http://os_extranet_files_test.s3.amazonaws.com/bullet.png)
+  background: url(https://os_extranet_files_test.s3.amazonaws.com/bullet.png)
     no-repeat;
   margin: 0 0 6px 0;
   padding: 0 0 4px 25px;
@@ -328,7 +328,7 @@ a:hover {
 #intro {
   display: block;
   font-family: "Nunito", arial, sans-serif;
-  background: url("http://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/336910_original.png")
+  background: url("https://os_extranet_files_test.s3.amazonaws.com/os_extranet_images.s3.amazonaws.com/336910_original.png")
     no-repeat;
   background-size: 25%;
   background-position: 90%;
