@@ -436,13 +436,14 @@ a:hover {
 }
 
 .officer-img#president {
-  background-image: url("IMG_2612.JPG");
-  background-position: 22% 46%;
+  background-image: url("../static/IMG_2612.JPG");
+  background-position: 73.3% 44%;
 }
 
 .officer-img#vice-president {
-  background-image: url("../static/IMG_2612.JPG");
-  background-position: 73.3% 44%;
+  background-image: url("../img/officers/divya.jpg");
+  background-position: 80% 35%;
+  background-size: 100%
 }
 
 .officer-img#secretary {
@@ -452,19 +453,19 @@ a:hover {
 }
 
 .officer-img#treasurer {
-  background-image: url("../img/officers/divya.jpg");
+  background-image: url("../img/officers/cropped_mary.jpg");
   background-position: 80% 35%;
   background-size: 100%;
 }
 
 .officer-img#webmaster {
-  background-image: url("../img/officers/allison.jpg");
+  background-image: url("../img/officers/meghanfixed.jpg");
   background-position: 50% 15%;
   background-size: 110%;
 }
 
 .officer-img#publicity-chair {
-  background-image: url("../img/officers/cropped_mary.jpg");
+  background-image: url("../img/officers/placeholder.jpg");
   background-position: 46% 22%;
   background-size: 120%;
 }
@@ -526,3 +527,4 @@ a:hover {
   opacity: 0.9;
   position: relative;
 }
+
