@@ -486,6 +486,17 @@ a:hover {
   background-position: 61% 48%;
 }
 
+.officer-img#social-media-chair-one {
+  background-image: url("../img/officers/brookefixed.jpg");
+  background-position: 50% 15%;
+  background-size: 100%;
+}
+
+.officer-img#social-media-chair-two {
+  background-image: url("../img/officers/estellefixed.jpg");
+  background-position: 50% 15%;
+  background-size: 100%
+}
 .photobar {
   background-color: #eee;
   /*background-color: #2D3142;*/
