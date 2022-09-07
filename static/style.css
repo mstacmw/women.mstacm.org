@@ -444,7 +444,7 @@ a:hover {
 .officer-img#vice-president {
   background-image: url("../img/officers/midori.jpg");
   background-position: 45% 12%;
-  background-size: 100%
+  background-size: 200%
 }
 
 .officer-img#secretary {
@@ -480,7 +480,7 @@ a:hover {
 .officer-img#gwc-vice-chair {
   background-image: url('../img/officers/midori.jpg');
   background-position:45% 12%;
-  background-size: 100%;
+  background-size: 200%;
 }
 /*
 .officer-img#advisor {
