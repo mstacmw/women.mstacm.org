@@ -438,6 +438,7 @@ a:hover {
 .officer-img#president {
   background-image: url("../static/estellefixed.jpg");
   background-position: 50% 15%;
+  background-size: 100%
 }
 
 .officer-img#vice-president {
@@ -449,7 +450,7 @@ a:hover {
 .officer-img#secretary {
   background-image: url("../img/officers/placeholder.jpg");
   background-position: 80% 35%;
-  background-size: 200%;
+  background-size: 100%;
 }
 
 .officer-img#treasurer {
@@ -473,6 +474,7 @@ a:hover {
 .officer-img#gwc-chair {
   background-image: url("../img/officers/estellefixed.jpg");
   background-position: 50% 15%;
+  background-size: 100%
 }
 
 .officer-img#gwc-vice-chair {
