@@ -437,18 +437,18 @@ a:hover {
 
 .officer-img#president {
   background-image: url("../static/estellefixed.jpg");
-  background-position: 73.3% 44%;
+  background-position: 50% 15%;
 }
 
 .officer-img#vice-president {
   background-image: url("../img/officers/midori.jpg");
-  background-position: 80% 35%;
+  background-position: 45% 12%;
   background-size: 100%
 }
 
 .officer-img#secretary {
   background-image: url("../img/officers/placeholder.jpg");
-  background-position: 45% 12%;
+  background-position: 80% 35%;
   background-size: 200%;
 }
 
@@ -460,24 +460,24 @@ a:hover {
 
 .officer-img#webmaster {
   background-image: url("../img/officers/rui.jpg");
-  background-position: 50% 15%;
+  background-position: 50% 50%;
   background-size: 110%;
 }
 
 .officer-img#public-relations {
   background-image: url("../img/officers/meghanfixed.jpg");
-  background-position: 46% 22%;
+  background-position: 50% 15%;
   background-size: 120%;
 }
 
 .officer-img#gwc-chair {
   background-image: url("../img/officers/estellefixed.jpg");
-  background-position: 82.5% 46%;
+  background-position: 50% 15%;
 }
 
 .officer-img#gwc-vice-chair {
   background-image: url('../img/officers/midori.jpg');
-  background-position: 50% 50%;
+  background-position:45% 12%;
   background-size: 100%;
 }
 /*
