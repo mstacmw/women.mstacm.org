@@ -466,7 +466,7 @@ a:hover {
 }
 
 .officer-img#public-relations {
-  background-image: url("../img/officers/meghanfixed.jpg");
+  background-image: url("../img/officers/placeholder.jpg");
   background-position: 50% 15%;
   background-size: 120%;
 }
@@ -481,6 +481,11 @@ a:hover {
   background-image: url('../img/officers/midori.jpg');
   background-position:45% 12%;
   background-size: 200%;
+}
+.officer-img#social-media-chair {
+  background-image: url("../img/officers/meghanfixed.jpg");
+  background-position: 50% 15%;
+  background-size: 120%;
 }
 /*
 .officer-img#advisor {
